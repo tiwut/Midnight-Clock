@@ -1,6 +1,11 @@
 # Midnight Clock
 
-![Midnight Clock Screenshot](https://raw.githubusercontent.com/username/repo/main/screenshot.png) <!-- **Action Required:** Replace this with a real screenshot URL -->
+<img width="856" height="533" alt="image" src="https://github.com/user-attachments/assets/9cc7bde8-0d79-4ee8-b944-5ae589f96e86" />
+<img width="856" height="533" alt="image" src="https://github.com/user-attachments/assets/a1d0dd36-043f-43d8-a437-c0bb4a87eccc" />
+<img width="856" height="533" alt="image" src="https://github.com/user-attachments/assets/c5937968-b86b-4992-8260-292a780ec923" />
+<img width="856" height="533" alt="image" src="https://github.com/user-attachments/assets/db61b116-f36d-4c1a-86f9-dd564ba28544" />
+<img width="856" height="533" alt="image" src="https://github.com/user-attachments/assets/9cf1152f-cdee-4e23-a617-4ac6ef82748f" />
+
 
 A modern, feature-rich, dark-themed clock application for Linux desktops, built with Python and PyQt6. Designed to be both beautiful and functional, it provides all the essential time-keeping tools in one place.
 
